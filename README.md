@@ -1,0 +1,2 @@
+# daytrader
+TradeStation SpyDaytrader
